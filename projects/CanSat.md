@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true
 image: img/cansat-image.png
 title: CanSat Competition
 permalink: projects/CanSat
