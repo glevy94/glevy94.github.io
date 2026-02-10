@@ -6,7 +6,7 @@
     "email": "glevy4@hawaii.edu",
     "phone": "(440) 360-9696",
     "website": "https://glevy94.github.io",
-    "summary": "Currently pursuing a dual B.S./M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024 with my B.S. and Spring 2025 with my M.S..",
+    "summary": "Graduated with a B.S./M.S. in Computer Science from the University of Hawaiʻi at Mānoa (Department of Information and Computer Sciences). Seeking a data science / machine learning role, with experience in Python-based analytics pipelines, NLP, and applied LLM workflows."
     "location": {
       "address": "",
       "postalCode": "96701",
@@ -50,55 +50,76 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "Python",
-        "Pydantic",
-        "Pandas",
-        "Pytorch",
-        "Scikit-learn",
-        "Javascript",
-        "Java",
-        "C/C++",
-        "R",
-        "MySQL"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Anaconda",
-        "Jupyter Notebook",
-        "DataBricks",
-        "MacOS",
-        "Git/GitHub",
-        "Jgrasp",
-        "R-Markdown",
-        "IntelliJ IDEA"
-
-      ]
-    }
-  ],
+"skills": [
+  {
+    "name": "Languages and Frameworks",
+    "level": "",
+    "keywords": [
+      "Python",
+      "Pandas",
+      "PyTorch",
+      "Scikit-learn",
+      "Pydantic",
+      "SQL (MySQL)",
+      "JavaScript",
+      "Java",
+      "C/C++",
+      "R"
+    ]
+  },
+  {
+    "name": "ML / AI",
+    "level": "",
+    "keywords": [
+      "Supervised & Unsupervised Learning",
+      "Feature Engineering",
+      "Model Evaluation (CV/Metrics)",
+      "Hyperparameter Tuning",
+      "NLP / Embeddings",
+      "LLMs (RAG, Prompting, PEFT/Fine-Tuning)",
+      "Experiment Design / Reproducibility",
+      "Deployment Basics"
+    ]
+  },
+  {
+    "name": "Toolsets/OS",
+    "level": "",
+    "keywords": [
+      "Jupyter Notebook",
+      "Google Colab",
+      "Anaconda",
+      "Databricks",
+      "Git/GitHub",
+      "MacOS",
+      "CUDA",
+      "Overleaf (LaTeX)",
+      "R Markdown",
+      "IntelliJ IDEA",
+    ]
+  }
+],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2023-09-01",
-      "endDate": "Present",
+      "endDate": "2025-12-18",
       "courses": [
         "ICS 635 (Machine Learning)",
-        "ICS 664 (Human-Computer Interaction)"
+        "ICS 664 (Human-Computer Interaction)",
+        "ICS 637 (Deep Learning with Neural Nets)",
+        "ICS 661 (Adv Artificial Intelligence)",
+        "ICS 691B (Computational Photography)",
+        "ICS 691D (Data Fusion)",
+        
+        
 
       ]
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science - Data Science(expected Spring, 2024)",
+      "area": "Computer Science - Data Science",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "2024-06-01",
@@ -118,6 +139,14 @@
     }
   ],
    "work": [
+     {
+      "company": "University of Hawaiʻi at Mānoa",
+      "position": "Graduate Research Assistant (Data Science / NLP)",
+      "website": "https://manoa.hawaii.edu",
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "summary": "Built reproducible Python pipelines to analyze public-meeting transcripts (preprocessing, segmentation, and structured extraction), generated embeddings for clustering/analysis, and used rubric-guided LLM workflows for labeling, summarization, and consistency evaluation across controlled prompt/order variations. Produced research artifacts and report-ready outputs (tables/figures) to support quantitative findings."
+    },
     {
       "company": "Morton's Steak House",
       "position": "Server",
