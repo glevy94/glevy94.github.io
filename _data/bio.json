@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Grayson Levy",
-    "label": "Student",
+    "label": "Recent Grad",
     "picture": "https://glevy94.github.io/img/github1.jpg",
     "email": "glevy4@hawaii.edu",
-    "phone": "(440) 360-9696",
+    "phone": "",
     "website": "https://glevy94.github.io",
     "summary": "Graduated with a B.S./M.S. in Computer Science from the University of Hawaiʻi at Mānoa (Department of Information and Computer Sciences). Seeking a data science / machine learning role, with experience in Python-based analytics pipelines, NLP, and applied LLM workflows.",
     "location": {
